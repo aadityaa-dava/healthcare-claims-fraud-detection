@@ -4,7 +4,7 @@
 
 ### Author
 
-Pradham Reddy
+Aadityaa Dava
 
 ### Tools & Technologies
 
