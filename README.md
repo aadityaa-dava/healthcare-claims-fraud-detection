@@ -120,21 +120,21 @@ The project uses healthcare provider claims data containing:
 
 ## Project Workflow
 
-### Notebook 01 — Data Understanding
+### Notebook 01 - Data Understanding
 
 * Dataset exploration
 * Data quality assessment
 * Variable inspection
 * Initial observations
 
-### Notebook 02 — Feature Engineering
+### Notebook 02 - Feature Engineering
 
 * Provider-level aggregation
 * Beneficiary feature creation
 * Claims feature engineering
 * Fraud modeling dataset creation
 
-### Notebook 03 — Provider-Level EDA
+### Notebook 03 - Provider-Level EDA
 
 * Fraud distribution analysis
 * Reimbursement comparisons
@@ -142,7 +142,7 @@ The project uses healthcare provider claims data containing:
 * Length-of-stay analysis
 * Correlation analysis
 
-### Notebook 04 — Data Preprocessing for Machine Learning
+### Notebook 04 - Data Preprocessing for Machine Learning
 
 * Feature selection
 * Train-test split
@@ -150,7 +150,7 @@ The project uses healthcare provider claims data containing:
 * SMOTE implementation
 * Modeling dataset creation
 
-### Notebook 05 — Fraud Detection Modeling
+### Notebook 05 - Fraud Detection Modeling
 
 * Logistic Regression
 * Random Forest Classifier
@@ -158,7 +158,7 @@ The project uses healthcare provider claims data containing:
 * Feature importance analysis
 * Model comparison
 
-### Notebook 06 — Model Insights & Recommendations
+### Notebook 06 - Model Insights & Recommendations
 
 * Fraud risk indicators
 * Business insights
